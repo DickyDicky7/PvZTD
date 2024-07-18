@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b48fcf0d9c63bf74faebf1931fd1ac0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -910779506891815510
+    second: DS DSi - Plants vs Zombies - Gatling Pea_0
+  - first:
+      213: 5398228292923871994
+    second: DS DSi - Plants vs Zombies - Gatling Pea_1
+  - first:
+      213: 5835684548428067333
+    second: DS DSi - Plants vs Zombies - Gatling Pea_2
+  - first:
+      213: 3854960951043861677
+    second: DS DSi - Plants vs Zombies - Gatling Pea_3
+  - first:
+      213: -8456063512095370871
+    second: DS DSi - Plants vs Zombies - Gatling Pea_4
+  - first:
+      213: -14589866663386408
+    second: DS DSi - Plants vs Zombies - Gatling Pea_5
+  - first:
+      213: -8392503127000866767
+    second: DS DSi - Plants vs Zombies - Gatling Pea_6
+  - first:
+      213: 3474248185300043002
+    second: DS DSi - Plants vs Zombies - Gatling Pea_7
+  - first:
+      213: 3056290323207283650
+    second: DS DSi - Plants vs Zombies - Gatling Pea_8
+  - first:
+      213: -8303399728371960912
+    second: DS DSi - Plants vs Zombies - Gatling Pea_9
+  - first:
+      213: 2056221689501849801
+    second: DS DSi - Plants vs Zombies - Gatling Pea_10
+  - first:
+      213: -374261762442038368
+    second: DS DSi - Plants vs Zombies - Gatling Pea_11
+  - first:
+      213: 4743693973372737567
+    second: DS DSi - Plants vs Zombies - Gatling Pea_12
+  - first:
+      213: 3808747624856476088
+    second: DS DSi - Plants vs Zombies - Gatling Pea_13
+  - first:
+      213: -4575979427155174334
+    second: DS DSi - Plants vs Zombies - Gatling Pea_14
+  - first:
+      213: -3600902808981567959
+    second: DS DSi - Plants vs Zombies - Gatling Pea_15
+  - first:
+      213: -1829426267914461080
+    second: DS DSi - Plants vs Zombies - Gatling Pea_16
+  - first:
+      213: 5911790866918108105
+    second: DS DSi - Plants vs Zombies - Gatling Pea_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2523bb2e839a14e8392e118c94802b
+      internalID: -2081063856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c221f212769bc4a8a4c237b2a90e23
+      internalID: 825455379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f25ec83c694f274d9d3b07840ff8265
+      internalID: 1615113103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c759416f40438d43af52783b56996e7
+      internalID: 151743675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173878a7a324984408e6266452781f15
+      internalID: 831285818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1551b2cbcd3826c4a934a9f8afcfbda2
+      internalID: -659062767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07c9b76d4da9d4f97cd1f986d36b3e
+      internalID: 1619563574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 36
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aedd5d32bbd1f48ba185b31fecd76d
+      internalID: -1462307176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 49
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1bddb362ca25241914f011dd254ca2
+      internalID: 299465746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 49
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc65b55055cba304198a46ce376d090d
+      internalID: -2137579628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f2aaaedda9634d95f5a0833d7e202
+      internalID: -1615176534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1a0ca42c48ca4e9fd0aff598e1aff
+      internalID: 518882738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8023f37fd21684e8f425dcc3acc2ff
+      internalID: 940675014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9bab4c75bc8e439836f5aeaf78e2a
+      internalID: -1435913567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533a4a93455ea82408c2eec7fdd19635
+      internalID: -1158104334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8067726b4348e4c9950c9339279c84
+      internalID: -468801824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce998c400c583a141a2e9dfdcde39c71
+      internalID: -108007275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Plants vs Zombies - Gatling Pea_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667b9e559c1bae4aa6654689e988720
+      internalID: 1601083192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58195115c3884b34bb54d246f7a29690
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Plants vs Zombies - Gatling Pea_0: -2081063856
+      DS DSi - Plants vs Zombies - Gatling Pea_1: 825455379
+      DS DSi - Plants vs Zombies - Gatling Pea_10: -1615176534
+      DS DSi - Plants vs Zombies - Gatling Pea_11: 518882738
+      DS DSi - Plants vs Zombies - Gatling Pea_12: 940675014
+      DS DSi - Plants vs Zombies - Gatling Pea_13: -1435913567
+      DS DSi - Plants vs Zombies - Gatling Pea_14: -1158104334
+      DS DSi - Plants vs Zombies - Gatling Pea_15: -468801824
+      DS DSi - Plants vs Zombies - Gatling Pea_16: -108007275
+      DS DSi - Plants vs Zombies - Gatling Pea_17: 1601083192
+      DS DSi - Plants vs Zombies - Gatling Pea_2: 1615113103
+      DS DSi - Plants vs Zombies - Gatling Pea_3: 151743675
+      DS DSi - Plants vs Zombies - Gatling Pea_4: 831285818
+      DS DSi - Plants vs Zombies - Gatling Pea_5: -659062767
+      DS DSi - Plants vs Zombies - Gatling Pea_6: 1619563574
+      DS DSi - Plants vs Zombies - Gatling Pea_7: -1462307176
+      DS DSi - Plants vs Zombies - Gatling Pea_8: 299465746
+      DS DSi - Plants vs Zombies - Gatling Pea_9: -2137579628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

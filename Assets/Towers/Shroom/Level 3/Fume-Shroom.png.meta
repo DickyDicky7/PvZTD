@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: e2f084f9e76f96240bd8fc8c4412debd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8434965555546475711
+    second: Fume-Shroom_0
+  - first:
+      213: -6906248718813488284
+    second: Fume-Shroom_1
+  - first:
+      213: 312330127291354837
+    second: Fume-Shroom_2
+  - first:
+      213: 145548941548345669
+    second: Fume-Shroom_3
+  - first:
+      213: -1478790434010484585
+    second: Fume-Shroom_4
+  - first:
+      213: 4475417628825564867
+    second: Fume-Shroom_5
+  - first:
+      213: -2250700891824026441
+    second: Fume-Shroom_6
+  - first:
+      213: -1564838580612062953
+    second: Fume-Shroom_7
+  - first:
+      213: -3025036563171499157
+    second: Fume-Shroom_8
+  - first:
+      213: -8923379621702986903
+    second: Fume-Shroom_9
+  - first:
+      213: 6388407308877716960
+    second: Fume-Shroom_10
+  - first:
+      213: -6142454261321442381
+    second: Fume-Shroom_11
+  - first:
+      213: 4085200659034827258
+    second: Fume-Shroom_12
+  - first:
+      213: -8092674586738367099
+    second: Fume-Shroom_13
+  - first:
+      213: 7098160472298293562
+    second: Fume-Shroom_14
+  - first:
+      213: -6910891454999128881
+    second: Fume-Shroom_15
+  - first:
+      213: -6491933813969495419
+    second: Fume-Shroom_16
+  - first:
+      213: -7514528555952444801
+    second: Fume-Shroom_17
+  - first:
+      213: -4233884558130773851
+    second: Fume-Shroom_18
+  - first:
+      213: 309354353763295724
+    second: Fume-Shroom_19
+  - first:
+      213: 8859439519834443602
+    second: Fume-Shroom_20
+  - first:
+      213: -943134318478948039
+    second: Fume-Shroom_21
+  - first:
+      213: -6741752960299113782
+    second: Fume-Shroom_22
+  - first:
+      213: -2648264203306102001
+    second: Fume-Shroom_23
+  - first:
+      213: -2664238875349700899
+    second: Fume-Shroom_24
+  - first:
+      213: -473938004030757401
+    second: Fume-Shroom_25
+  - first:
+      213: 1033634090656718917
+    second: Fume-Shroom_26
+  - first:
+      213: 2108287824796126672
+    second: Fume-Shroom_27
+  - first:
+      213: -2612373593081951861
+    second: Fume-Shroom_28
+  - first:
+      213: -4441169685415547291
+    second: Fume-Shroom_29
+  - first:
+      213: 4067302564145092123
+    second: Fume-Shroom_30
+  - first:
+      213: -5222666766388721258
+    second: Fume-Shroom_31
+  - first:
+      213: -2281811042107155002
+    second: Fume-Shroom_32
+  - first:
+      213: 2990062885668477155
+    second: Fume-Shroom_33
+  - first:
+      213: -6532819964296141732
+    second: Fume-Shroom_34
+  - first:
+      213: -7478848618518816834
+    second: Fume-Shroom_35
+  - first:
+      213: -5624204498622796761
+    second: Fume-Shroom_36
+  - first:
+      213: 941939520090497298
+    second: Fume-Shroom_37
+  - first:
+      213: 3027302406581372929
+    second: Fume-Shroom_38
+  - first:
+      213: 3998069860328759901
+    second: Fume-Shroom_39
+  - first:
+      213: 5494092353407150898
+    second: Fume-Shroom_40
+  - first:
+      213: -451308803172530480
+    second: Fume-Shroom_41
+  - first:
+      213: 3729738250995785661
+    second: Fume-Shroom_42
+  - first:
+      213: 3737229221999447552
+    second: Fume-Shroom_43
+  - first:
+      213: 2532183679194145761
+    second: Fume-Shroom_44
+  - first:
+      213: -134127852051960312
+    second: Fume-Shroom_45
+  - first:
+      213: -1624688339187518741
+    second: Fume-Shroom_46
+  - first:
+      213: 2860896123078612585
+    second: Fume-Shroom_47
+  - first:
+      213: -3162278209737077346
+    second: Fume-Shroom_48
+  - first:
+      213: -4822799446205316914
+    second: Fume-Shroom_49
+  - first:
+      213: 5322080878395714194
+    second: Fume-Shroom_50
+  - first:
+      213: 7358299142177041626
+    second: Fume-Shroom_51
+  - first:
+      213: 8220638344801126696
+    second: Fume-Shroom_52
+  - first:
+      213: -6681441156605989346
+    second: Fume-Shroom_53
+  - first:
+      213: -8325059063528019932
+    second: Fume-Shroom_54
+  - first:
+      213: -6481909878926245960
+    second: Fume-Shroom_55
+  - first:
+      213: -8006989205659518058
+    second: Fume-Shroom_56
+  - first:
+      213: 2810486824310197490
+    second: Fume-Shroom_57
+  - first:
+      213: -780488514748673617
+    second: Fume-Shroom_58
+  - first:
+      213: 3900812259610875104
+    second: Fume-Shroom_59
+  - first:
+      213: 9086641019838865949
+    second: Fume-Shroom_60
+  - first:
+      213: 5373124536444738918
+    second: Fume-Shroom_61
+  - first:
+      213: 1096885281417867767
+    second: Fume-Shroom_62
+  - first:
+      213: -6794343777743971179
+    second: Fume-Shroom_63
+  - first:
+      213: -7268154668146047092
+    second: Fume-Shroom_64
+  - first:
+      213: 1488495621791506249
+    second: Fume-Shroom_65
+  - first:
+      213: -602808703085530982
+    second: Fume-Shroom_66
+  - first:
+      213: 8957236873588867166
+    second: Fume-Shroom_67
+  - first:
+      213: 6522863770881695281
+    second: Fume-Shroom_68
+  - first:
+      213: -7335171111189641786
+    second: Fume-Shroom_69
+  - first:
+      213: -87394791117361524
+    second: Fume-Shroom_70
+  - first:
+      213: 8309767998646555885
+    second: Fume-Shroom_71
+  - first:
+      213: 4706966289083206672
+    second: Fume-Shroom_72
+  - first:
+      213: -2534430638151305739
+    second: Fume-Shroom_73
+  - first:
+      213: 4475677595581086445
+    second: Fume-Shroom_74
+  - first:
+      213: 7312420107820562187
+    second: Fume-Shroom_75
+  - first:
+      213: -7797561438121089772
+    second: Fume-Shroom_76
+  - first:
+      213: -8474860978866083539
+    second: Fume-Shroom_77
+  - first:
+      213: 683179760908289242
+    second: Fume-Shroom_78
+  - first:
+      213: 9184712895443164045
+    second: Fume-Shroom_79
+  - first:
+      213: -7518407385249983831
+    second: Fume-Shroom_80
+  - first:
+      213: 1549865446955894144
+    second: Fume-Shroom_81
+  - first:
+      213: 4757361838882014254
+    second: Fume-Shroom_82
+  - first:
+      213: 5946062541586166879
+    second: Fume-Shroom_83
+  - first:
+      213: 7746056219865760910
+    second: Fume-Shroom_84
+  - first:
+      213: -6634383802665675130
+    second: Fume-Shroom_85
+  - first:
+      213: 978519457105504433
+    second: Fume-Shroom_86
+  - first:
+      213: -734213306427799650
+    second: Fume-Shroom_87
+  - first:
+      213: 3235909166626548126
+    second: Fume-Shroom_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fume-Shroom_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81047b9b2a72c0d4080e2ae3d0b0829e
+      internalID: 1174670375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89186c8e49c5d124cac7c56e040a8339
+      internalID: 1661457168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581aed42274d22147ae079ff291526c3
+      internalID: -464990878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe742d8f23c8148b6af4aa4d132a29
+      internalID: -690746090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 106
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b5195c9586cd44826f2d1646722b2
+      internalID: 179175732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 106
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e816adf832f97aa4db6d2744c787ee22
+      internalID: 712717376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e43b873beeaf4688756f42a5ae81a
+      internalID: 1984321271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a061c54b84f74ea4648c4c5c1383f
+      internalID: 1854081063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2a73bddfc6c640858c491e87e1671
+      internalID: 1483355609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebe9e247d9539c4fbbf91e9ed1d58aa
+      internalID: 592238906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583a8d4905b33da49af6559852b6a331
+      internalID: 284452417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d2fbdcdadaec42b424f5c4bef9a9f
+      internalID: -1388463510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460cef8e157603845afb03d0de832fef
+      internalID: -959308103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee1ea6e2fc6be4884f344d53aaad6d
+      internalID: -1017419240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 25
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5a02e3956b2a4fa5f90558919f87e
+      internalID: -930789692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 7
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afacc9b5dd345a41bb0474524d46496
+      internalID: -1682502476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 4
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c0569da1a81043b35c5b02be3b5c5
+      internalID: -1350424486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c588b550f1c7d4197eaec09b37baac
+      internalID: -212230756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e12288de5eba4085f58596677bdbb
+      internalID: -37979812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf9ed91727dfa41a993f362d589d0b
+      internalID: -1554248345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e7f8b89d6f8d42b3c8ebcdd6f5555
+      internalID: 1473603386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3
+        width: 88
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e1265640257444b2c825e077d1d0e
+      internalID: -25956622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbceac5c0b4864ba87cb87cb280362
+      internalID: 926467438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_74
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40fb167dded874c8c0c5f95779cba9
+      internalID: 2012974124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fume-Shroom_79
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 8
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd296fb8a4d3fc48aead9c333900e01
+      internalID: 1244309615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 87105b1414cca394c8e41553926f2c79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fume-Shroom_0: 1174670375
+      Fume-Shroom_1: 1661457168
+      Fume-Shroom_10: 284452417
+      Fume-Shroom_11: -1388463510
+      Fume-Shroom_12: -959308103
+      Fume-Shroom_13: -1017419240
+      Fume-Shroom_14: -930789692
+      Fume-Shroom_15: -1682502476
+      Fume-Shroom_16: -1350424486
+      Fume-Shroom_17: 1587079453
+      Fume-Shroom_18: 771831561
+      Fume-Shroom_19: 299377588
+      Fume-Shroom_2: -464990878
+      Fume-Shroom_20: -316157965
+      Fume-Shroom_21: -981243086
+      Fume-Shroom_22: -1235890090
+      Fume-Shroom_23: -575437704
+      Fume-Shroom_24: -1281797481
+      Fume-Shroom_25: -1455199630
+      Fume-Shroom_26: -532857636
+      Fume-Shroom_27: 307959790
+      Fume-Shroom_28: -1600523571
+      Fume-Shroom_29: -1328076134
+      Fume-Shroom_3: -690746090
+      Fume-Shroom_30: -212230756
+      Fume-Shroom_31: 1082985979
+      Fume-Shroom_32: -37979812
+      Fume-Shroom_33: 389895120
+      Fume-Shroom_34: 2064363251
+      Fume-Shroom_35: 938866884
+      Fume-Shroom_36: -10986961
+      Fume-Shroom_37: 317309520
+      Fume-Shroom_38: 1479238255
+      Fume-Shroom_39: 265179938
+      Fume-Shroom_4: 179175732
+      Fume-Shroom_40: -1554248345
+      Fume-Shroom_41: -1696626502
+      Fume-Shroom_42: 1338522513
+      Fume-Shroom_43: 1170106732
+      Fume-Shroom_44: 434074975
+      Fume-Shroom_45: -1355977207
+      Fume-Shroom_46: 1473603386
+      Fume-Shroom_47: -919928028
+      Fume-Shroom_48: 2077121820
+      Fume-Shroom_49: -25956622
+      Fume-Shroom_5: 712717376
+      Fume-Shroom_50: -1929162778
+      Fume-Shroom_51: -1659910127
+      Fume-Shroom_52: -711293859
+      Fume-Shroom_53: 1411195829
+      Fume-Shroom_54: -2061343548
+      Fume-Shroom_55: -1766893066
+      Fume-Shroom_56: 1057597173
+      Fume-Shroom_57: -262327435
+      Fume-Shroom_58: -1348816508
+      Fume-Shroom_59: 1305298137
+      Fume-Shroom_6: 1984321271
+      Fume-Shroom_60: 926467438
+      Fume-Shroom_61: 968274292
+      Fume-Shroom_62: -23303243
+      Fume-Shroom_63: -1147381780
+      Fume-Shroom_64: 1549069752
+      Fume-Shroom_65: -1744470908
+      Fume-Shroom_66: -1835746634
+      Fume-Shroom_67: 1622888766
+      Fume-Shroom_68: -1396699538
+      Fume-Shroom_69: 431342658
+      Fume-Shroom_7: 1854081063
+      Fume-Shroom_70: -1952751718
+      Fume-Shroom_71: -107800769
+      Fume-Shroom_72: 1516971944
+      Fume-Shroom_73: -1036261031
+      Fume-Shroom_74: 2012974124
+      Fume-Shroom_75: -812051890
+      Fume-Shroom_76: 2145543860
+      Fume-Shroom_77: -319647162
+      Fume-Shroom_78: 274366472
+      Fume-Shroom_79: 1244309615
+      Fume-Shroom_8: 1483355609
+      Fume-Shroom_80: 1529054441
+      Fume-Shroom_81: 1936755574
+      Fume-Shroom_82: 698461340
+      Fume-Shroom_83: -1351622555
+      Fume-Shroom_84: 72803928
+      Fume-Shroom_85: 83371281
+      Fume-Shroom_86: 1445278988
+      Fume-Shroom_87: 911508850
+      Fume-Shroom_88: -791205627
+      Fume-Shroom_9: 592238906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
