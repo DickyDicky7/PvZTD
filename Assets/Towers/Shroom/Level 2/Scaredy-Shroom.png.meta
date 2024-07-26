@@ -418,9 +418,9 @@ TextureImporter:
       name: Scaredy-Shroom_9
       rect:
         serializedVersion: 2
-        x: 167
+        x: 163
         y: 66
-        width: 13
+        width: 17
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -432,226 +432,6 @@ TextureImporter:
       bones: []
       spriteID: 1d6a1856c7d640b43912c49cfb431611
       internalID: -1498217127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_10
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 32
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 973d66ec2d913a64db9eacef3d4ecdf5
-      internalID: 613428589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_12
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 32
-        width: 27
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9aa69cab9ed7a3c468c4d04c57a2fe79
-      internalID: -448808009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_14
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 32
-        width: 27
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0903ba104b0d7574698f70f5b7748a3e
-      internalID: -1559898015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_15
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 32
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4ace1fd03cc7ed40b562d9dcae01b30
-      internalID: -1394054370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_16
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 32
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79ff90dca918d3b48ae3fd60ce288bd3
-      internalID: 1243793597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_17
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 32
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56ebb249c2d1b2e4aa1058b406ac33d6
-      internalID: -1296069945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_18
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 32
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe7cde99755c770479bcc5f05e94043b
-      internalID: 856359986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_19
-      rect:
-        serializedVersion: 2
-        x: 189
-        y: 32
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0b616c0bd2f881418cfefbae4299c29
-      internalID: 821579002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_20
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 56
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23232015726ce1f4a820fedc17e6d9f9
-      internalID: -552111338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_21
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77a4fe68609689d4d8bf3d7f206ea377
-      internalID: -497532970
       vertices: []
       indices: 
       edges: []
@@ -684,7 +464,7 @@ TextureImporter:
         serializedVersion: 2
         x: 203
         y: 1
-        width: 51
+        width: 52
         height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -696,50 +476,6 @@ TextureImporter:
       bones: []
       spriteID: 0cdf3865567fc4b4a9e6f0a36d9a02af
       internalID: -1426526871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_30
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 1
-        width: 22
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8db7ca16e037158438871ad8d803a778
-      internalID: 1129830356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scaredy-Shroom_31
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 1
-        width: 22
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 478686e599151384ca8460727a2dd79e
-      internalID: -454248746
       vertices: []
       indices: 
       edges: []

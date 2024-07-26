@@ -75,8 +75,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1995562039
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 1174670375, guid: e2f084f9e76f96240bd8fc8c4412debd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -123,3 +123,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d676f10989c7204f9ae401f54e09a4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  AmmoPrefab: {fileID: 5461023207576034786, guid: ff281a7223d4d2f4eb4d86a302038937, type: 3}

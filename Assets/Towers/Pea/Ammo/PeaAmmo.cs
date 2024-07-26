@@ -1,22 +1,30 @@
+using System.Collections;
 using UnityEngine;
 
-public class PeaAmmo : MonoBehaviour
+public class PeaAmmo : TowerAmmo
 {
-    private float speed { get; set; } = 10f;
-    private Vector3 Direction { get; set; }
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    protected override void Start()
     {
-        Destroy(gameObject, 5f);
+        base.Start();
+        this.Animator = this.GetComponent<Animator>();
+        StartCoroutine(Explode(3f));
     }
 
     // Update is called once per frame
-    void Update()
+    protected override void Update()
     {
-        transform.position += Direction * speed * Time.deltaTime;
+        base.Update();
     }
-    public void SetDirection(Vector3 direction)
+    private IEnumerator Explode(float delay)
     {
-        this.Direction = direction;
+        yield return new WaitForSeconds(delay);
+        this.IsExploded = true;
+        this.Animator.Play("PeaAmmo_Ani_Explode");
+    }
+    public void AfterExplode()
+    {
+        Destroy(this.gameObject);
     }
 }

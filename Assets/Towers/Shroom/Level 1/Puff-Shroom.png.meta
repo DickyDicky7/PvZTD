@@ -204,7 +204,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
         width: 18
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,7 +248,7 @@ TextureImporter:
         width: 18
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,7 +270,7 @@ TextureImporter:
         width: 18
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,7 +292,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,56 +309,12 @@ TextureImporter:
       name: Puff-Shroom_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 41
-        width: 26
-        height: 24
+        x: 53
+        y: 49
+        width: 17
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e30f50dc05278650800000000000000
-      internalID: 6234992946083464164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_6
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 41
-        width: 26
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f83625a34617eb50800000000000000
-      internalID: 6622286256860969200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_7
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 48
-        width: 19
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,59 +328,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puff-Shroom_8
+      name: Puff-Shroom_7
       rect:
         serializedVersion: 2
-        x: 84
-        y: 55
-        width: 14
-        height: 7
+        x: 110
+        y: 42
+        width: 37
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02cbfd2643462ff80800000000000000
-      internalID: -8074281005761971168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_9
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 58
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 886061057703963b0800000000000000
-      internalID: -5518826579362969976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_10
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 41
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -438,213 +350,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puff-Shroom_11
+      name: Puff-Shroom_8
       rect:
         serializedVersion: 2
-        x: 164
-        y: 56
-        width: 7
-        height: 7
+        x: 154
+        y: 42
+        width: 45
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa449f1992418a410800000000000000
-      internalID: 1488461845621195946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_12
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 45
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d16b70614921e8550800000000000000
-      internalID: 6164885367150851613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_13
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 55
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa87f6fafcb608900800000000000000
-      internalID: 684665683106035887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_14
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 40
-        width: 16
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68c71726f4e1baf80800000000000000
-      internalID: -8094342578965480314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_15
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 47
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c042e859da8afde0800000000000000
-      internalID: -1298572876439207736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_16
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 43
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cab530ff56e8d0690800000000000000
-      internalID: -7634289224601871444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_17
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 47
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72f83d04a68daa3e0800000000000000
-      internalID: -2041581530193359065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_18
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 48
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccef905c0da20bcf0800000000000000
-      internalID: -238643704103305524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_19
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 47
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81e4946693d8e6920800000000000000
-      internalID: 2985478880661949976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_20
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 41
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -658,37 +372,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puff-Shroom_21
+      name: Puff-Shroom_9
       rect:
         serializedVersion: 2
-        x: 194
-        y: 44
-        width: 6
-        height: 6
+        x: 206
+        y: 39
+        width: 52
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97e55cc1985468720800000000000000
-      internalID: 2848040269553950329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_22
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 38
-        width: 19
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -702,221 +394,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puff-Shroom_23
+      name: Puff-Shroom_6
       rect:
         serializedVersion: 2
-        x: 253
-        y: 38
-        width: 6
-        height: 6
+        x: 76
+        y: 44
+        width: 27
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6c1d523e3eb4656a0800000000000000
-      internalID: -6460893173275831866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_24
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 8
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f4c1681b8025c850800000000000000
-      internalID: 6396554627531261169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_25
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 28
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98e16c6ad08d12a30800000000000000
-      internalID: 4188866681575448201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_26
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 8
-        width: 24
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 481b42908ce47c970800000000000000
-      internalID: 8775069020008526212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_27
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 28
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae96fac62ad74bb90800000000000000
-      internalID: -7227013365461194262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_28
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 23
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e14a0f7b44bd07cc0800000000000000
-      internalID: -3715228604390398946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_29
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 5
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72ad17ff70f6bf200800000000000000
-      internalID: 214887487371336231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_30
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 24
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1f349757e0899240800000000000000
-      internalID: 4799008609035108127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_31
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 4
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 004e87220ebd2d9f0800000000000000
-      internalID: -445051657458752512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puff-Shroom_32
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 4
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbc468d9125417270800000000000000
-      internalID: 8246448403371150523
+      spriteID: 83b59962af33e844f9c3c6a1608c29c4
+      internalID: -1040394393
       vertices: []
       indices: 
       edges: []
@@ -925,7 +419,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a20f69ae4a49dce45b34577560850cfb
     internalID: 0
     vertices: []
     indices: 
@@ -934,7 +428,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Puff-Shroom_0: -1274631217564379974
+      Puff-Shroom_1: -3473663611941848755
+      Puff-Shroom_11: 1488461845621195946
+      Puff-Shroom_12: 6164885367150851613
+      Puff-Shroom_13: 684665683106035887
+      Puff-Shroom_14: -8094342578965480314
+      Puff-Shroom_15: -1298572876439207736
+      Puff-Shroom_16: -7634289224601871444
+      Puff-Shroom_17: -2041581530193359065
+      Puff-Shroom_18: -238643704103305524
+      Puff-Shroom_19: 2985478880661949976
+      Puff-Shroom_2: -7847839642322980900
+      Puff-Shroom_21: 2848040269553950329
+      Puff-Shroom_23: -6460893173275831866
+      Puff-Shroom_3: -7701811686473304837
+      Puff-Shroom_4: 3831598820125162785
+      Puff-Shroom_5: -1216479316644981754
+      Puff-Shroom_6: -1040394393
+      Puff-Shroom_7: 7178404085750834457
+      Puff-Shroom_8: 3271016122047685292
+      Puff-Shroom_9: -7596655667394419158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
